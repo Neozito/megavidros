@@ -1,0 +1,29 @@
+MEGA VIDROS — SITE INSTITUCIONAL
+
+COMO USAR
+Extraia o ZIP e abra index.html no navegador. Para publicar, envie o conteúdo da pasta mega-vidros para a pasta pública da hospedagem (geralmente public_html). Não precisa de PHP, banco de dados ou instalação de pacotes.
+
+ARQUIVOS
+index.html — todas as seções do site
+assets/style.css — aparência e adaptação para celular
+assets/script.js — menu, galeria e formulário
+assets/config.js — número de WhatsApp e Instagram
+assets/imagens/ — fotos ilustrativas em WebP e fachada real enviada pelo cliente
+assets/icones/ — ícones vetoriais SVG independentes
+
+ANTES DE PUBLICAR
+O telefone foi transcrito da referência visual: (45) 99954-1023. Confira o número e altere assets/config.js se necessário. Confirme também endereço e horários no index.html. O link do Instagram aguarda o perfil oficial, configurável em assets/config.js.
+A imagem da seção Quem Somos usa a fachada real enviada por você. As fotos da galeria são ilustrativas. Os retratos circulares dos depoimentos são exemplos gerados para demonstração; troque pelas fotos dos clientes reais, com autorização, antes de publicar.
+Os três cartões de depoimentos são modelos explicitamente identificados. Substitua por avaliações reais autorizadas e fotos de clientes com autorização.
+
+FUNCIONAMENTO
+Todos os botões de WhatsApp usam o número centralizado em config.js.
+O formulário valida nome, telefone, serviço e mensagem, e abre o WhatsApp com o texto preenchido. O visitante precisa confirmar o envio no WhatsApp. Nenhum dado é armazenado ou enviado por e-mail.
+A galeria exibe nove imagens e abre fotografias ampliadas. A janela pode ser fechada pelo botão, pela tecla Esc ou clicando fora da imagem.
+O mapa incorporado depende de conexão com a internet e dos serviços do Google. Há um link alternativo para abrir a localização no Google Maps.
+
+IMAGENS
+Criadas com geração de imagens integrada. Prompts: fachada simétrica cinza de vidraçaria com portas pretas e letreiro vermelho Mega Vidros; casa com portas de vidro temperado e jardim; banheiro bege com espelho iluminado; box transparente em banheiro contemporâneo; profissional usando luvas azuis e ventosa para instalar vidro; escritório com divisórias de vidro e perfis pretos. Sem dependências de imagens remotas.
+
+CRÉDITO
+Criado por Agência Neo Arte — https://neoartepub.com.br
